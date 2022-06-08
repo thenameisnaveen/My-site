@@ -1,0 +1,123 @@
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #11999E;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  margin-top: 30px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  background-color: #E4F9F5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  color: grey;
+  height: 0;
+  width: 5%;
+  border-width: 5px;
+  margin-top: 30px;
+}
+
+
+a {
+  color: #11999E;
+}
+
+
+.top-container {
+  padding: 20px;
+}
+
+.middle-container{
+  line-height: 1.5;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile{
+  margin-top: 80px;
+}
+
+.top-cloud {
+  position: relative;
+  left: 320px;
+  height: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  height: 40px;
+}
+
+.skill-row{
+  margin-top: 40px;
+}
+
+.programming-img{
+  height: 200px;
+}
+
+.problem-solving{
+  height: 180px;
+  position: relative;
+  left: 20px;
+  margin-bottom: 30px;
+}
+
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container{
+  margin-top: 30px;
+}
+
+.footer-link{
+  text-decoration: none;
+  margin-right: 30px;
+}
